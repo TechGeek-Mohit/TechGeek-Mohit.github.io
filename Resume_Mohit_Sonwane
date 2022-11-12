@@ -1,0 +1,56 @@
+MOHIT SONWANE
+
+EDUCATION
+
+Bachelor of Science, Computer Science May 2024
+San Jose State University, San Jose, CA
+College Year: Junior
+Honors: Dean's Scholar Award 2021
+Coursework: Processing Big Data: Tools and Techniques, Operating Systems, Relational Databases, Object-Oriented Design, Data Structures 
+and Algorithms, Computer Systems, Computational Theory, Statistics, Discrete Mathematics
+
+WORK EXPERIENCE
+
+Good Tech Scholar (Non-Profit Market Place), IBM, San Jose, CA Jun 2022 – Aug 2022
+• Technology used: HTML, CSS, React JavaScript, Firebase, GIT, Bash Scripting
+• Developed a web-based platform, "Connects donators and donates" to provide aid for poor citizens to eliminate poverty
+• Built software functional specs in line with IBM enterprise design thinking and agile “54/60” (Top 5 winning teams)
+• Implemented the login, signup and checkout page Interface using NoSQL database and React JS to handle user account credentials and activity.
+
+Director of Hackathons & Social Media Coordinator (Officer), SJSU CS Club Jun 2022 - Present
+• Conducted several in-person club fairs and did social media marketing that added more than 400 students to our club.
+• Will conduct in person hackathon for up to 150 participants: reach out to companies such as Google, IBM, Adobe for sponsorship.
+
+PROJECTS
+
+Driveways (Parking Renting & Hosting Website) Jun 2022 - Aug 2022
+• Technology used: SQL Database, HTML, CSS, JavaScript, Java Servlet Programming, Apache Tomcat
+• It solves parking crises during business hours, offer long-term parking solutions, save customers' commute time:10 min.
+• Designed a responsive front-end and added Google Map API on the website to enhance user experience.
+• Built an Entity relationship for 16 Relational tables and applied normalization to efficiently manage and retrieve data.
+• Implemented Backend for User-Login & Checkout-page using Java Servlet Programming to store data from interface to database.
+
+Chatbot (AI), IBM Skill Build June 2022 - Aug 2022
+• Technology used: IBM Watson Assistant
+• Deployed a Chatbot for answering frequently asked questions by customers, responding to customer feedback.
+• Obtained WordPress site for testing purposes, maintained state with context variable and collected user input with slots.
+
+Key Ware (Password Manager) Apr 2022 - May 2022
+• Technology used: Java, JavaFX, and Scene Builder, Flat Files.
+• Developed a secured password management solution to manage user's account credentials with strong encryption.
+• Implemented a Password manager dashboard to retrieve user’s account credentials, and a random password generator.
+• Used Model-View-Control design pattern to design the application, and executed the backend using I/O files to manage user's account data.
+
+Airline Routes Manager (Graph Algorithms and Data Structure) Nov 2021 - Dec 2021
+• Devised a Java Application that manages airline routes (add/delete/edit) destinations, and finds shortest path between 2 airports.
+• Executed route panel using Java AWT, and functional specs were accomplished using graph algorithms.
+
+CERTIFICATIONS
+
+IBM Cloud Computing, IBM Enterprise Design Thinking, IBM Working in a Digital World: Professional Skills, AWS Cloud Practitioner (Udemy).
+SKILLS
+
+Languages: Java, SQL, HTML, CSS, JavaScript, Phyton, Bash Scripting
+Technologies: GitHub, IBM DB2, Firebase, MongoDB, IBM
+Framework: React JS, JavaFX, Angular JS, Rest API
+Operating Systems: Windows, Ubuntu Linux, IBM RedHat
